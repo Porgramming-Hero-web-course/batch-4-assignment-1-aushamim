@@ -50,7 +50,7 @@ A type guard is a TypeScript technique used to get information about the type of
 
 - ### `in` Operator Type Guard
 
-  The `in` operator checks for the existence of a property in an object. This is usefull when constraining a value to be within the limits of the existing properties of an object.
+  The `in` operator checks for the existence of a property in an object. This is useful when constraining a value to be within the limits of the existing properties of an object.
 
   ```ts
   interface Person {
